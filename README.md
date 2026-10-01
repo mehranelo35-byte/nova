@@ -1,1 +1,3 @@
-# nova
+# Nova
+
+AI assistant for iPhone.
